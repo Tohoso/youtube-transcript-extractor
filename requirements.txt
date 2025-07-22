@@ -1,0 +1,20 @@
+# Core dependencies
+requests>=2.28.0
+youtube-transcript-api>=0.6.0
+dataclasses-json>=0.5.7
+
+# Optional dependencies for audio processing
+# Uncomment if using audio recognition APIs
+# openai>=1.0.0
+# yt-dlp>=2023.1.6
+# pydub>=0.25.1
+
+# Development dependencies (install with pip install -r requirements-dev.txt)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# pytest-asyncio>=0.21.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
+# pre-commit>=2.20.0
+
